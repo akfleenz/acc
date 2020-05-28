@@ -6,7 +6,7 @@
       "dataset":[
     {
         "title": "ACC Falls Data 2007-2019",
-        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.). OIA: 51599.  The information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\nThe claim has an accident cause equal to one of the following:\n- Loss Balance/Personal Contrl\n- Loss of Consciousness/Sleep\n- Misjudgement of Support\n- Slipping, Skidding on Foo\n- Something Giving way Underfoot\n- Tripping or Stumbling\nThe claim was lodged or active in the period between 1 January 2007 and 30 November 2019.  Data were extracted on 1 December 2019.",
+        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.). OIA: 51599.  The information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\nThe claim has an accident cause equal to one of the following:\n- Loss Balance/Personal Control\n- Loss of Consciousness/Sleep\n- Misjudgement of Support\n- Slipping, Skidding on Food\n- Something Giving way Underfoot\n- Tripping or Stumbling\n\nThe claim was lodged or active in the period between 1 January 2007 and 30 November 2019.  Data were extracted on 1 December 2019.",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
             "acc",
@@ -15,8 +15,8 @@
             "trips",
             "falls"
         ],
-        "issued": "01-12-2019",
-        "corrected date": "01-12-2019",
+        "issued": "2019-12-1",
+        "corrected date": "1/12/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -47,8 +47,8 @@
             "trips",
             "falls"
         ],
-        "issued": "17-09-2018",
-        "modified": "3-10-2018",
+        "issued": "2018-09-17",
+        "modified": "2018-10-3",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -67,14 +67,12 @@
                 "downloadURL": "https://catalogue.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/8f70c6b9-33ad-4a6b-908f-e7c3cfbd82f8/download/data-publication-falls.xlsx",
                 "format": ".xlsx",
                 "size": "78KB",
-                "title": "Falls Data",
-                "description": "Falls data"
+                "title": "Falls Data"
             },
             {
                 "downloadURL": "https://catalogue.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/c66f2bd6-acf5-4fec-94e5-de1a9c40f8d6/download/46061-new-falls-long.csv",
                 "format": "CSV",
-                "title": "New \"Falls\" claims",
-                "description": "4.44MB"
+                "title": "New \"Falls\" claims"
             },
             {
                 "downloadURL": "https://catalogue.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/8ac43157-06d0-4778-a8a0-93fb8843527f/download/46061-active-falls-long.csv",
@@ -89,7 +87,7 @@
         "description": "Number of ACC decisions that were contested by patients under official review by percentage of contested cases that resulted in decisions being made by an independent reviewer for or against the view of ACC.",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "issued": "2020-01-27",
-        "corrected date": "27-01-2020",
+        "corrected date": "27/01/2020",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -116,8 +114,8 @@
             "medical misadventure",
             "treament injury"
         ],
-        "issued": "26-09-2019",
-        "corrected date": "26-09-2019",
+        "issued": "2019-09-26",
+        "corrected date": "26/09/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -160,9 +158,9 @@
             "open government",
             "preventing injuries"
         ],
-        "issued": "17-03-2017",
-        "corrected date": "17-03-2017",
-        "modified": "31-07-2019",
+        "issued": "2017-03-17",
+        "corrected date": "17/03/2017",
+        "modified": "2019-07-31",
         "publisher": {
             "name": "ACC",
             "mbox": "website.management@acc.co.nz"
@@ -222,8 +220,8 @@
             "fatigue",
             "tiredness"
         ],
-        "issued": "04-05-2020",
-        "corrected date": "04-05-2020",
+        "issued": "2020-05-4",
+        "corrected date": "4/05/2020",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -252,8 +250,8 @@
             "atv",
             "claims"
         ],
-        "issued": "13-05-2020",
-        "corrected date": "13-05-2020",
+        "issued": "2020-05-13",
+        "corrected date": "13/05/2020",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -282,7 +280,7 @@
             "injury"
         ],
         "issued": "43874",
-        "corrected date": "13-02-2020",
+        "corrected date": "13/02/2020",
         "publisher": {
             "name": "ACC"
         },
@@ -317,8 +315,8 @@
             "sensitive claims",
             "issc"
         ],
-        "issued": "18-04-2019",
-        "corrected date": "18-04-2019",
+        "issued": "2019-04-18",
+        "corrected date": "18/04/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -349,8 +347,8 @@
             "injury",
             "claims"
         ],
-        "issued": "02-07-2019",
-        "corrected date": "02-07-2019",
+        "issued": "2019-07-2",
+        "corrected date": "2/07/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -381,8 +379,8 @@
             "claims",
             "motor vehicle accident"
         ],
-        "issued": "30-11-2018",
-        "corrected date": "30-11-2018",
+        "issued": "2018-11-30",
+        "corrected date": "30/11/2018",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -420,8 +418,8 @@
             "injuries",
             "wellington"
         ],
-        "issued": "05-10-2019",
-        "corrected date": "05-10-2019",
+        "issued": "2019-10-5",
+        "corrected date": "5/10/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -451,8 +449,8 @@
             "claims",
             "kapiti"
         ],
-        "issued": "04-05-2020",
-        "corrected date": "04-05-2020",
+        "issued": "2020-05-4",
+        "corrected date": "4/05/2020",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -482,8 +480,8 @@
             "injury",
             "claims"
         ],
-        "issued": "11-10-2019",
-        "corrected date": "11-10-2019",
+        "issued": "2019-10-11",
+        "corrected date": "11/10/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -513,8 +511,8 @@
             "claims",
             "whanganui"
         ],
-        "issued": "16-01-2019",
-        "corrected date": "16-01-2019",
+        "issued": "2019-01-16",
+        "corrected date": "16/01/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -543,7 +541,7 @@
             "traumatic brain injury"
         ],
         "issued": "2019-07-27",
-        "corrected date": "27-07-2019",
+        "corrected date": "27/07/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -572,8 +570,8 @@
             "arthroscropy",
             "labral"
         ],
-        "issued": "18-10-2019",
-        "corrected date": "18-10-2019",
+        "issued": "2019-10-18",
+        "corrected date": "18/10/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -604,8 +602,8 @@
             "injury",
             "fatalities"
         ],
-        "issued": "16-10-2019",
-        "corrected date": "16-10-2019",
+        "issued": "2019-10-16",
+        "corrected date": "16/10/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -634,8 +632,8 @@
             "climbing wall",
             "fatalities"
         ],
-        "issued": "16-10-2019",
-        "corrected date": "16-10-2019",
+        "issued": "2019-10-16",
+        "corrected date": "16/10/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -667,9 +665,9 @@
             "treatment cost",
             "ethnicity"
         ],
-        "issued": "12-03-2020",
-        "corrected date": "12-03-2020",
-        "modified": "12-12-2019",
+        "issued": "2020-03-12",
+        "corrected date": "12/03/2020",
+        "modified": "2019-12-12",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
@@ -714,8 +712,8 @@
             "acc",
             "treatment cost"
         ],
-        "issued": "30-03-2020",
-        "corrected date": "30-03-2020",
+        "issued": "2020-03-30",
+        "corrected date": "30/03/2020",
         "publisher": {
             "name": "ACC",
             "mbox": "GovernmentServices@acc.co.nz"
@@ -755,8 +753,8 @@
             "injury",
             "workplace"
         ],
-        "issued": "02-03-2019",
-        "corrected date": "02-03-2019",
+        "issued": "2019-03-2",
+        "corrected date": "2/03/2019",
         "publisher": {
             "name": "ACC",
             "mbox": "analytics@acc.co.nz"
