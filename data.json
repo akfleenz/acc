@@ -5,514 +5,9 @@
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
-        "title": "Vaccine Injury compensation",
-        "description": "ACC response to a request at: https://www.data.govt.nz/datasetrequest/show/419",
-        "keyword": [
-            "vaccine"
-        ],
-        "publisher": {
-            "name": "ACC",
-            "mbox": "GovernmentServices@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Vaccine",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/a7ecd16b-df20-42a0-9d05-8ba947a10c68/resource/c4938f81-6ced-4098-8c03-48bce9c90705/download/gov-001373-response.pdf",
-                "format": ".pdf",
-                "size": "448656",
-                "title": "Vaccine Injury compensation"
-            },
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/a7ecd16b-df20-42a0-9d05-8ba947a10c68/resource/338cb39f-8b8b-4ab3-bf18-0c239d71f5e0/download/gov-004033-response.pdf",
-                "format": "PDF",
-                "size": "475795",
-                "title": "Vaccine Injury compensation - Breakdown"
-            }
-        ]
-    },
-    {
-        "title": "Sports injuries",
-        "license": "https://creativecommons.org/licenses/by-nd/3.0/nz/",
-        "issued": "2020-03-12",
-        "modified": "2020-03-12",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/3eb52d25-2aa1-4861-aff4-8b4bede6da64/resource/28b114b3-ad87-4ead-bc77-6b6449b654d4/download/51939-response.xlsm",
-                "format": "xlsm",
-                "size": "68242",
-                "title": "51939 Sports injuries "
-            }
-        ]
-    },
-    {
-        "title": "Average expense per claim by injury type in last 12 months",
-        "description": "ACC response to a request at: https://www.data.govt.nz/datasetrequest/show/448",
-        "issued": "2020-01-28",
-        "publisher": {
-            "name": "ACC"
-        },
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/556c3e7c-da10-4451-8cdb-ff46344bf197/resource/3c0a83c5-b553-4ba8-8149-dd91f5b8d5b8/download/gov-003217-response.pdf",
-                "format": "PDF",
-                "size": "395564",
-                "title": "GOV-003217 Response"
-            },
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/556c3e7c-da10-4451-8cdb-ff46344bf197/resource/5b807992-56e6-4ba7-b2fd-9ac3f4b4e1b1/download/gov-003217-appendix-one.xlsx",
-                "format": "XLSX",
-                "size": "19252",
-                "title": "GOV-003217 Appendix one"
-            }
-        ]
-    },
-    {
-        "title": "ACC official review outcome statistics",
-        "description": "ACC response to a request at: https://www.data.govt.nz/datasetrequest/show/450",
-        "issued": "2020-01-27",
-        "publisher": {
-            "name": "ACC"
-        },
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/cbf716e8-3a07-4410-8733-5e7215615698/resource/7917bcce-f9df-4f3b-b6ed-d639989f52bc/download/gov-003216-response.pdf",
-                "format": ".pdf",
-                "size": "467869",
-                "title": "ACC official review outcome statistics"
-            }
-        ]
-    },
-    {
-        "title": "Number of elective surgery requests received for hip labral tears",
-        "description": "ACC response to a request at: https://data.govt.nz/datasetrequest/show/428",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/c0b75640-57e0-4dc8-a085-5e9882a9f909/resource/6858c93d-5218-4f45-8d91-022f89654ee2/download/gov-002082-response.pdf",
-                "format": ".pdf",
-                "size": "272944",
-                "title": "Number of elective surgery requests received for hip labral tears"
-            }
-        ]
-    },
-    {
-        "title": "OIA response 51704",
-        "license": "https://creativecommons.org/licenses/by-nd/3.0/nz/",
-        "issued": "2020-01-16",
-        "modified": "2020-01-16",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Sports related concussions",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/ef4c6298-3f56-4e11-ba4b-96bafbb23239/resource/070d3446-e29b-4e3c-874c-3df8968fd8ed/download/51704-sport-concussions.xlsm",
-                "format": "xlsm",
-                "size": "60717",
-                "title": "Sports related concussions"
-            }
-        ]
-    },
-    {
-        "title": "OIA response 51599",
-        "license": "https://creativecommons.org/licenses/by-nd/3.0/nz/",
-        "issued": "2019-12-16",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Falls data",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/b02de5a8-ee54-4bd0-99ef-13a70f0d93e2/resource/3f6d81aa-d2ea-47cc-97e9-d92bf302f935/download/51599-response.xlsm",
-                "format": "xlsm",
-                "size": "52415",
-                "title": "51599 Falls data"
-            }
-        ]
-    },
-    {
-        "title": "OIA response 51546",
-        "license": "https://creativecommons.org/licenses/by-nd/3.0/nz/",
-        "issued": "2019-12-04",
-        "modified": "2019-12-04",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Fireworks injuries",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/664d2d28-f009-4d99-9861-ada6ae5af9f2/resource/19d81aa3-de13-495e-830c-418388798cb2/download/51546-response.xlsm",
-                "format": "xlms",
-                "size": "57856"
-            }
-        ]
-    },
-    {
-        "title": "Wellington netball injuries",
-        "description": "Netball injuries in Wellington 2017 to 2019.",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "issued": "2019-11-18",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/f00246b1-3964-4a22-9464-3fb54651aed6/resource/bfb5968b-d579-4306-a0f1-34317ebe942b/download/51388-netball-injuries-in-wellington.xlsx",
-                "format": "XLSX",
-                "size": "39458",
-                "title": "Netball injuries in Wellington"
-            }
-        ]
-    },
-    {
-        "title": "OIA Response - #51192",
-        "description": "##ACC response to an OIA on the following question:\\r\\n#####Wanting to see the amount of claims for occupational noise induced hearing loss, including totals per annum, and totals per annum by industry.",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "issued": "2019-10-11",
-        "modified": "2019-10-16",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "theme": "Noise Induced Hearing Loss",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/579d6a8d-8dc1-4d4a-a79c-66a53309005e/resource/1b90b05f-3585-4c6d-81c7-0b8838fadf68/download/51192-nihl-claims-last-10-years.xlsx",
-                "format": ".xlsx",
-                "size": "43425",
-                "title": "OIA Response #51192"
-            }
-        ]
-    },
-    {
-        "title": "OIA Response - #51126",
-        "description": "##ACC response to an OIA on the following question:\\r\\n#####Wanting to see the number of injuries and fatalities that occurred over the last 5 years during white water rafting, white water kayaking and sea kayaking activity.",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "issued": "2019-09-26",
-        "modified": "2019-10-16",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "theme": "Rafting and kayaking",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/111f311d-d6fd-4d7a-954c-4268413215d4/resource/bb0b354c-fbab-42d7-9867-2634baa880e4/download/51126-rafting-kayaking-injuries.pdf",
-                "format": ".pdf",
-                "size": "170566",
-                "title": "OIA Response #51126"
-            }
-        ]
-    },
-    {
-        "title": "OIA Response - #51125",
-        "description": "##ACC response to an OIA on the following question:\\r\\n#####Wanting to see the number of injuries and fatalities while rock climbing in New Zealand",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "issued": "2019-09-26",
-        "modified": "2019-10-16",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "theme": "Rock climbing",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/d9a62cb3-faeb-40bf-89fb-da1ce714be92/resource/849590f7-2617-40d5-ad4d-e412b47a61b1/download/51125-rock-climbing-injuries.pdf",
-                "format": ".pdf",
-                "size": "171337",
-                "title": "OIA Response #51125"
-            }
-        ]
-    },
-    {
-        "title": "ACC Treatment Injury Data",
-        "description": "ACC claims relating to personal injury caused by treatment from, or at the direction of, a registered health professional.\\r\\n\\r\\n####This includes:\\r\\n- diagnosis, advice and interventions\\r\\n - failure to provide treatment or failure to provide treatment in a timely manner.\\r\\nThe injury must have been caused by treatment; but not be a necessary part, or ordinary consequence, of the treatment.\\r\\n\\r\\n\\r\\n## Injury Prevention: Making treatment safer\\r\\n####The best way to improve treatment safety is for us to work in collaboration with those on the front line.\\r\\n\\r\\n\\r\\n##### We have six key initiatives that address:\\r\\n- surgical safety\\r\\n- infection prevention and surveillance\\r\\n- pressure injuries\\r\\n- medication safety\\r\\n- clinical incident reviews\\r\\n- brain injuries in newborns.\\r\\n\\r\\n#### We've committed a $45 million investment to treatment safety programmes between 2017 and 2022.\\r\\n\\r\\n#### We work with the Health Quality and Safety Commission (HQSC), the Ministry of Health (MoH), District Health Boards (DHBs) and others to deliver these initiatives.\\r\\n#### Find out more about the initiatives:\\r\\nhttps://www.acc.co.nz/for-providers/treatment-safety/\\r\\n\\r\\n\\r\\n#### To encourage conversations around treatment safety, we've released detailed information on treatment injuries in public and private surgical hospitals.\\r\\nhttps://www.acc.co.nz/assets/provider/2de075da69/supporting-treatment-safety-report-2019.pdf\\r\\n",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "keyword": [
-            "medical misadventure",
-            "treament injury"
-        ],
-        "issued": "2019-09-26",
-        "modified": "2019-09-26",
-        "publisher": {
-            "name": "Analytics & Reporting",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "fn": "Analytics & Reporting"
-        },
-        "accrualPeriodicity": "R/P1Y",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/2e487b2d-3641-49c1-a683-3bd8d4d10a36/resource/a903ed48-5be2-4021-bbd0-6d75aaa52029/download/active-treatment-injury-claims.csv",
-                "format": "CSV",
-                "size": "32499",
-                "title": "Active Treatment Injury Data"
-            },
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/2e487b2d-3641-49c1-a683-3bd8d4d10a36/resource/b40daa8b-76b6-4810-84e8-d3413feac1e4/download/new-treatment-injury-claims.csv",
-                "format": "CSV",
-                "size": "27375",
-                "title": "New Treatment Injury Data"
-            },
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/2e487b2d-3641-49c1-a683-3bd8d4d10a36/resource/2667c8ef-5298-4c18-bbe5-8c7da5f6bea8/download/treatment-injury-claims-dataset.xlsx",
-                "format": "XLSX",
-                "size": "46618",
-                "title": "Treatment Injury Data"
-            }
-        ]
-    },
-    {
-        "title": "OIA Response - #48495",
-        "description": "##ACC Response to an OIA on the following question:\\r\\nCan you please provide statistics related to falls in Whanganui?",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "keyword": [
-            "falls",
-            "whanganui"
-        ],
-        "issued": "2019-01-16",
-        "modified": "2019-01-16",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Falls in Whanganui ",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/0cd32927-4dc4-4cda-8888-f26f84cd0656/resource/a861ffb8-b055-4288-9dee-3c723784eb29/download/48495-falls-in-whanganui-response.pdf",
-                "format": "PDF",
-                "size": "213784",
-                "title": "OIA Response #48495"
-            }
-        ]
-    },
-    {
-        "title": "OIA Response - #50395",
-        "description": "## ACC Response to an OIA on the following question:\\r\\nI would like a summary datasheet of total ACC claims for the previous 5 years of concussion and mild traumatic brain injury. Further breakdown into how accidents occurred such as sports-related, motor-vehicle related, etc. would be very helpful if possible",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "keyword": [
-            "tbi",
-            "concussion"
-        ],
-        "issued": "2019-08-01",
-        "modified": "2019-08-06",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytisc@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Traumatic Brain Injury & Concussions",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/d68ff0ae-3164-46e5-9a27-c7590536acd0/resource/6cf2b669-1ca5-429c-9d06-3876d1391c8f/download/50395-concussion-and-tbi.xlsx",
-                "format": "XLSX",
-                "size": "41254",
-                "title": "OIA Response #50395"
-            }
-        ]
-    },
-    {
-        "title": "Accident Compensation Corporation Chief Executive expenses",
-        "description": "Details of the expenses of the Accident Compensation Corporation's Chief Executive.",
-        "identifier": "https://www.acc.co.nz/about-us/corporate/",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "keyword": [
-            "accidents",
-            "ce expenses",
-            "chief executive",
-            "claims",
-            "compensation",
-            "open government",
-            "preventing injuries"
-        ],
-        "issued": "2017-03-17",
-        "modified": "2019-07-31",
-        "publisher": {
-            "name": "Accident Compensation Corporation",
-            "mbox": "website.management@acc.co.nz"
-        },
-        "contactPoint": {
-            "fn": "Mark Williamson",
-            "hasEmail": "website.management@acc.co.nz"
-        },
-        "landingPage": "https://www.acc.co.nz/about-us/corporate/",
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Government Entity",
-        "distribution": [
-            {
-                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/bf50627086/ce-expenses-july-2018-june-2019.xlsx",
-                "format": "XLSX",
-                "title": "Chief Executive's expenses - 1 July 2018 to 30 June 2019 (Scott Pickering) (XLSX 81 KB)"
-            },
-            {
-                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/ce-expenses-july-2017-june-2018.xlsx",
-                "format": "XLSX",
-                "title": "Chief Executive's expenses - 1 July 2017 to 30 June 2018 [Scott Pickering] (XLSX 26 KB)"
-            },
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/bc4dc847-db70-4653-87f9-2244877d6568/resource/b726dc7a-d4e0-487a-8b37-551859fa53c2/download/chief-executive-expense-report-1-july-2016-30-june-2017-scott-pickering.xlsx",
-                "format": "XLSX",
-                "title": "Chief Executive's expenses - 1 July 2016 to 30 June 2017 [Scott Pickering] (XLSX 38KB) "
-            },
-            {
-                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/ce-pickering-expenses-january-june-2016.xlsx",
-                "format": "XLSX",
-                "title": "Chief Executive's expenses - 1 January 2016 to 30 June 2016 [Scott Pickering] (XLSX 27KB)"
-            },
-            {
-                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/e-pickering-expenses-july-december-2015.xlsx",
-                "format": "XLSX",
-                "title": "Chief Executive's expenses - 1 July 2015 to 31 December 2015 [Scott Pickering] (XLSX 27KB)"
-            }
-        ]
-    },
-    {
-        "title": "Hot water bottle injuries",
-        "description": "ACC response to a request at:\\r\\nhttps://data.govt.nz/datasetrequest/show/407",
-        "distribution": [
-            {
-                "downloadURL": "https://catalogue.data.govt.nz/dataset/0f6d3b12-be60-4126-9bcc-22dc2ad380f6/resource/9f797cd4-1145-41d1-91f9-55ef6a6cbb68/download/gov-000318-response.pdf",
-                "format": "PDF",
-                "size": "230188",
-                "title": "Hot water bottle injuries"
-            }
-        ]
-    },
-    {
-        "title": "OIA Response - #49376",
-        "description": "### ACC response to an OIA on the following question:\\r\\n\\r\\n#### Wanting to see the amount of sensitive claims made from 2014 - 2018 to see if there has been a peak due to policy changes surrounding support for victims ",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "keyword": [
-            "acc",
-            "issc",
-            "sensitive claims"
-        ],
-        "issued": "2019-04-12",
-        "modified": "2019-04-18",
-        "publisher": {
-            "name": "Analytics & Reporting, ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "irregular",
-        "theme": "Sensitive Claims",
-        "distribution": [
-            {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/16102e49-43be-4354-97e0-73787726b340/resource/42619488-b035-4348-9957-2e931691bd68/download/49376-external-doc.pdf",
-                "format": "PDF",
-                "size": "206725",
-                "title": "OIA Response #49376"
-            }
-        ]
-    },
-    {
-        "title": "Workplace injuries rates, general population, Pasifica peoples and Maori between 1 July 2015 and 30 June 2018.",
-        "description": "# __Response:__\\r\\n\\t\\t\\t\\r\\nThe data have been extracted based on the following criteria:\\t\\t\\t\\r\\n- The claim management office is not equal to 'Accredited Employers'\\t\\t\\t\\r\\n- The claim cover decision is equal to 'Accepted'\\t\\t\\t\\r\\n- The clients ethnicity is equal to the following:\\t\\t\\t\\r\\n_    \\t'Maori'\\t\\t\\r\\n    \\t'Pacific Peoples'\\t\\t\\r\\n_- The claim registration date is between 1 July 2015 and 30 June 2018.\\t\\t\\t\\r\\n- The amount net is greater than $0.\\t\\t\\t\\r\\n- The claim payment date is between 1 July 2015 and 30 June 2018.\\t\\t\\t\\r\\n\\r\\n\\t\\t\\t\\r\\n\\t\\t\\t\\t\\r\\n# __Caveats:__\\r\\n\\t\\t\\t\\r\\n- A financial year is 1 July to 30 June.\\t\\t\\t\\t\\r\\n- The claim is funded through the ACC Work account, which includes the self employed, employer/other, and residual fund codes.\\t\\t\\t\\t\\r\\n- A claim can cover multiple financial years. In Table 1, a claim which lasts longer than one year is counted once for each financial year covered. \\t\\t\\t\\t\\r\\n- For example, a claim which lasted from 2013/14 to 2015/16 would be counted a total of three times, once for each financial year.\\t\\t\\t\\t\\r\\n- __New Claims__ - the claims in these tables have been counted by the date that the claim was lodged with ACC. This can be immediately after the injury occurred or at any later stage. \\t\\t\\t\\t\\r\\n- __Active claims__ - are claims that generated a payment in the relevant financial years.  These claims were not necessarily lodged, or had the accident occur, in the same financial year.  \\t\\t\\t\\t\\r\\n- Costs are based on payment date. Payment date may be different to the date of service.\\t\\t\\t\\t\\r\\n- Diagnosis is based off the client’s primary injury, claims may have multiple injuries however these secondary injuries will not show within this data extract.\\t\\t\\t\\t\\r\\n- ACC ethnicity data is prioritised, meaning that a claim can only have one ethnicity based on their selections on the ACC45 claim lodgement form. A maximum of six ethnicities can be chosen by the client but the system prioritises these where Māori, regardless of other ethnicities are classified as Māori, Pacific Peoples with any other responses other than Māori are classified as Pacific; Asian peoples with any other response other than Māori and Pacific are classified as Asian and Other Ethnicity regardless of any other response other than Māori,\\tPacific or Asian are classified as Other. Those that listed European and did not list Māori, Pacific, Asian or Other are classified as European. Residual Categories are those whose ethnicity was not stated.\\t\\t\\t\\t\\r\\n- Costs are GST Exclusive and include all claim costs e.g. treatment, weekly compensation etc.\\t\\t\\t\\t\\r\\n- Cell suppression of claim counts less than 4 is used or show as .. to ensure client privacy.\\t\\t\\t\\t\\r\\n\\r\\n__Data were extracted on 14 March 2019 and may differ if re-run at a later date.__\\t\\t\\t\\r\\n",
-        "keyword": [
-            "acc",
-            "claims",
-            "injury",
-            "workplace"
-        ],
-        "issued": "2019-03-14",
-        "publisher": {
-            "name": "ACC",
-            "mbox": "GovernmentServices@acc.co.nz"
-        },
-        "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "theme": "Workplace injuries rates",
-        "distribution": [
-            {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/f722ad6f-f170-482b-93d5-5076c03c4445/resource/8fc0367c-2311-47c2-8a67-a62cc24e71f0/download/0053769-response-workplace-injury-rates.xlsx",
-                "format": "XLSX",
-                "size": "37679",
-                "title": "Workplace injuries rates, general population, Pasifica peoples and Maori between 1 July 2015 and 30 June 2018."
-            }
-        ]
-    },
-    {
-        "title": "Motor Vehicle Accident claims",
-        "description": "ACC claims relating to motor vehicle or road accidents.\\r\\n\\r\\n## Injury Prevention:\\r\\n#### Keeping safe on the road\\r\\nThe number of people killed on our roads is growing. We get about 40,000 new injury claims a year from crashes on our roads.\\r\\nEvery year there are hundreds of people killed on our roads. Fatalities and serious injuries have risen year-on-year for the past five years, with 473 people killed or seriously injured in 2017. We expect this number to continue to rise.\\r\\nDeaths and injuries from road accidents have a significant impact on families and communities. We’re working with government agencies to reduce the number and severity of these road crash injuries. The New Zealand Transport Agency (NZTA) has information and resources about road safety.  \\r\\nWe're also a partner in the government's Safer Journeys strategy for improving road safety by 2020. It aims to manage road safety across all elements of the system – roads, speed, safe vehicles, and use.\\r\\n##### More information and resources can be found on ACC's website using the below link:\\r\\nhttps://www.acc.co.nz/preventing-injury/road/    \\r\\n<br />  \\r\\n \\r\\n\\r\\n### The information provided is based on the following criteria/considerations.\\r\\n##### The data has been extracted based on the following criteria:\\r\\n - The claim has is funded under the ACC Motor vehicle fund. \\r\\n - The claim was lodged or active in the period between 1 July 2011 and 30 June 2018.\\r\\n - The claim has a cover decision equal to \"Accept\".  \\r\\n\\r\\n##### Caveats / Notes:\\r\\n - Costs provided are exclusive of GST.\\r\\n - Costs are based on payment date. Payment date may be different to the date of service.\\r\\n - Accredited employer claims are excluded from the information.\\r\\n - A financial year is 1 July to 30 June.\\r\\n - Any instances of client gender, age, ethnicity, or accident location that are missing are not included in the information. \\r\\n - ACC is reliant on the information a person provides on their ACC45 injury claim form which is completed when they seek medical treatment for their injury.\\r\\n - Data were extracted on 30 November 2018 and may differ if re-run at a later date.   \\r\\n<br />\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n\\r\\n",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
-        "keyword": [
-            "acc",
-            "cars",
-            "claims",
-            "motor vehicle accident"
-        ],
-        "issued": "2018-11-30",
-        "modified": "2019-03-25",
-        "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
-        },
-        "contactPoint": {
-            "fn": "Analytics & Reporting",
-            "hasEmail": "analytics@acc.co.nz"
-        },
-        "accrualPeriodicity": "R/P1Y",
-        "theme": "Motor Vehicle Accidents",
-        "distribution": [
-            {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/e9767749-01e5-4b9f-88de-10b73ae73b19/resource/f53f15d8-fb9c-474b-9fc7-d05907070262/download/road-data-publication.xlsx",
-                "format": "XLSX",
-                "size": "81799",
-                "title": "Motor Vehicle Accidents Data"
-            },
-            {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/e9767749-01e5-4b9f-88de-10b73ae73b19/resource/6db4cb5e-4653-48c5-a90d-841fde229c6e/download/road-analyst_new.xlsx",
-                "format": "CSV",
-                "size": "734743",
-                "title": "New Motor Vehicle Accidents"
-            },
-            {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/e9767749-01e5-4b9f-88de-10b73ae73b19/resource/7c0c24b1-0cb6-4ef2-8602-886d7ef70b94/download/road-analyst_active.xlsx",
-                "format": "CSV",
-                "size": "1095950",
-                "title": "Active Motor Vehicle Accidents"
-            }
-        ]
-    },
-    {
-        "title": "ACC Falls data",
-        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.). \\r\\n\\r\\n### Injury Prevention:\\r\\n### Staying free from falls\\r\\nLive Stronger for Longer has become a movement among older people. It's brought to you by ACC, Health Quality and Safety Commission (HQSC), Ministry of Health, local community health providers, home carers, and community groups across the country.\\r\\n#### Live Stronger for Longer website has practical advice and resources, including:\\r\\n- how to join community strength and balance classes\\r\\n- in home strength and balance classes\\r\\n- bone health treatments\\r\\n- home safety checklist\\r\\n- resources designed for over 65s.\\r\\n#### Find out what's happening in your local community:\\r\\nhttps://www.livestronger.org.nz/\\r\\n\\r\\n### The information provided is based on the following criteria/considerations.\\r\\n#### The data has been extracted based on the following criteria:\\r\\n- The claim has an accident cause equal to one of the following:\\r\\n          *- Loss Balance/Personal Contrl,\\r\\n           - Loss of Consciousness/Sleep,\\r\\n           - Misjudgement of Support,\\r\\n           - Slipping, Skidding on Foot,\\r\\n           - Something Giving way Underfoot,\\r\\n           - Tripping or Stumbling*\\r\\n- The claim was lodged or active in the period between 1 July 2011 and 30 June 2018.\\r\\n- The claim has a cover decision equal to \"Accept\".\\r\\n#### Caveats / Notes:\\r\\n- Costs provided are exclusive of GST.\\r\\n- Costs are based on payment date. Payment date may be different to the date of service.\\r\\n- Accredited employer claims are excluded from the information.\\r\\n- A financial year is 1 July to 30 June.\\r\\n- Any instances of client gender, age, ethnicity, or accident location that are missing are not included in the information.\\r\\n- ACC is reliant on the information a person provides on their ACC45 injury claim form which is completed when they seek medical treatment for their injury. \\r\\n- Data were extracted on 17 September 2018 and may differ if re-run at a later date.\\r\\n\\r\\n",
-        "license": "https://creativecommons.org/licenses/by/3.0/nz/",
+        "title": "ACC Falls Data 2007-2019",
+        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.). OIA: 51599.  The information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\nThe claim has an accident cause equal to one of the following:\n- Loss Balance/Personal Contrl\n- Loss of Consciousness/Sleep\n- Misjudgement of Support\n- Slipping, Skidding on Foo\n- Something Giving way Underfoot\n- Tripping or Stumbling\nThe claim was lodged or active in the period between 1 January 2007 and 30 November 2019.  Data were extracted on 1 December 2019.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
             "acc",
             "fall",
@@ -520,34 +15,765 @@
             "trips",
             "falls"
         ],
-        "issued": "2018-09-28",
-        "modified": "2018-10-03",
+        "issued": "01-12-2019",
+        "corrected date": "01-12-2019",
         "publisher": {
-            "name": "Damian Lawler",
+            "name": "ACC",
             "mbox": "analytics@acc.co.nz"
         },
         "contactPoint": {
-            "fn": "Damian Lawler"
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
         },
-        "accrualPeriodicity": "R/P1Y",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2007/30-11-2019",
         "distribution": [
             {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/8f70c6b9-33ad-4a6b-908f-e7c3cfbd82f8/download/data-publication-falls.xlsx",
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/b02de5a8-ee54-4bd0-99ef-13a70f0d93e2/resource/3f6d81aa-d2ea-47cc-97e9-d92bf302f935/download/51599-response.xlsm",
+                "format": "XLSM",
+                "title": "Falls Data 2007-2019"
+            }
+        ]
+    },
+    {
+        "title": "ACC Falls data 2011-2018",
+        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.).  The information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\nThe claim has an accident cause equal to one of the following:\n- Loss Balance/Personal Contrl\n- Loss of Consciousness/Sleep\n- Misjudgement of Support\n- Slipping, Skidding on Foo\n- Something Giving way Underfoot\n- Tripping or Stumbling\nThe claim was lodged or active in the period between 1 July 2011 and 30 June 2018. Data were extracted on 17 September 2018 and may differ if re-run at a later date.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "acc",
+            "fall",
+            "slips",
+            "trips",
+            "falls"
+        ],
+        "issued": "17-09-2018",
+        "modified": "3-10-2018",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "ACC Contact": "Damian Lawler",
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Injury",
+        "temporal": "1-07-2011/30-06-2018",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/8f70c6b9-33ad-4a6b-908f-e7c3cfbd82f8/download/data-publication-falls.xlsx",
                 "format": ".xlsx",
-                "size": "79577",
-                "title": "Falls Data"
+                "size": "78KB",
+                "title": "Falls Data",
+                "description": "Falls data"
             },
             {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/c66f2bd6-acf5-4fec-94e5-de1a9c40f8d6/download/46061-new-falls-long.csv",
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/c66f2bd6-acf5-4fec-94e5-de1a9c40f8d6/download/46061-new-falls-long.csv",
                 "format": "CSV",
-                "size": "4550461",
-                "title": "New \"Falls\" Claims"
+                "title": "New \"Falls\" claims",
+                "description": "4.44MB"
             },
             {
-                "downloadURL": "https://preprod.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/8ac43157-06d0-4778-a8a0-93fb8843527f/download/46061-active-falls-long.csv",
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/39b2efb2-eed7-4b1a-b691-00e8899bbe0d/resource/8ac43157-06d0-4778-a8a0-93fb8843527f/download/46061-active-falls-long.csv",
                 "format": "CSV",
-                "size": "5218327",
-                "title": "Active \"Falls\" Claims"
+                "size": "5.0MB",
+                "title": "Active \"Falls\" claims"
+            }
+        ]
+    },
+    {
+        "title": "ACC official review outcome statistics",
+        "description": "Number of ACC decisions that were contested by patients under official review by percentage of contested cases that resulted in decisions being made by an independent reviewer for or against the view of ACC.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "issued": "2020-01-27",
+        "corrected date": "27-01-2020",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "theme": "Injury",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/cbf716e8-3a07-4410-8733-5e7215615698/resource/7917bcce-f9df-4f3b-b6ed-d639989f52bc/download/gov-003216-response.pdf",
+                "format": "PDF",
+                "size": "457KB",
+                "title": "ACC official review outcome statistics"
+            }
+        ]
+    },
+    {
+        "title": "ACC Treatment Injury Data",
+        "description": "ACC claims relating to personal injury caused by treatment from, or at the direction of, a registered health professional.\nThis includes:\n- diagnosis, advice and interventions \n- failure to provide treatment or failure to provide treatment in a timely manner. The injury must have been caused by treatment; but not be a necessary part, or ordinary consequence, of the treatment.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "medical misadventure",
+            "treament injury"
+        ],
+        "issued": "26-09-2019",
+        "corrected date": "26-09-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Treatment Safety",
+            "hasEmail": "treatmentinjury@acc.co.nz"
+        },
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Injury",
+        "temporal": "2010/2018",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/2e487b2d-3641-49c1-a683-3bd8d4d10a36/resource/a903ed48-5be2-4021-bbd0-6d75aaa52029/download/active-treatment-injury-claims.csv",
+                "format": "CSV",
+                "title": "Active Treatment Injury Data"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/2e487b2d-3641-49c1-a683-3bd8d4d10a36/resource/b40daa8b-76b6-4810-84e8-d3413feac1e4/download/new-treatment-injury-claims.csv",
+                "format": "CSV",
+                "title": "New Treatment Injury Data"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/2e487b2d-3641-49c1-a683-3bd8d4d10a36/resource/2667c8ef-5298-4c18-bbe5-8c7da5f6bea8/download/treatment-injury-claims-dataset.xlsx",
+                "format": "XLSX",
+                "title": "Treatment Injury Data"
+            }
+        ]
+    },
+    {
+        "title": "Accident Compensation Corporation Chief Executive expenses",
+        "description": "Details of the expenses of the Accident Compensation Corporation's Chief Executive.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "acc",
+            "ce expenses",
+            "chief executive",
+            "claims",
+            "compensation",
+            "open government",
+            "preventing injuries"
+        ],
+        "issued": "17-03-2017",
+        "corrected date": "17-03-2017",
+        "modified": "31-07-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "website.management@acc.co.nz"
+        },
+        "ACC Contact": "Mark Williamson",
+        "contactPoint": {
+            "fn": "Government Engagement & Support",
+            "hasEmail": "website.management@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/corporate/",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Injury",
+        "distribution": [
+            {
+                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/bf50627086/ce-expenses-july-2018-june-2019.xlsx",
+                "format": "XLSX",
+                "title": "1 July 2018 to 30 June 2019",
+                "description": "Chief Executive's expenses- Scott Pickering"
+            },
+            {
+                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/ce-expenses-july-2017-june-2018.xlsx",
+                "format": "XLSX",
+                "size": "26KB",
+                "title": "1 July 2017 to 30 June 2018",
+                "description": "Chief Executive's expenses - 1 July 2017 to 30 June 2018 [Scott Pickering]"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/bc4dc847-db70-4653-87f9-2244877d6568/resource/b726dc7a-d4e0-487a-8b37-551859fa53c2/download/chief-executive-expense-report-1-july-2016-30-june-2017-scott-pickering.xlsx",
+                "format": "XLSX",
+                "size": "38KB",
+                "title": "1 July 2016 to 30 June 2017",
+                "description": "Chief Executive's expenses - 1 July 2016 to 30 June 2017 [Scott Pickering]"
+            },
+            {
+                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/ce-pickering-expenses-january-june-2016.xlsx",
+                "format": "XLSX",
+                "size": "27KB",
+                "title": "1 January 2016 to 30 June 2016",
+                "description": "Chief Executive's expenses - 1 January 2016 to 30 June 2016 [Scott Pickering]"
+            },
+            {
+                "downloadURL": "https://www.acc.co.nz/assets/corporate-documents/e-pickering-expenses-july-december-2015.xlsx",
+                "format": "XLSX",
+                "size": "27KB",
+                "title": "1 July 2015 to 31 December 2015",
+                "description": "Chief Executive's expenses - 1 July 2015 to 31 December 2015 [Scott Pickering]"
+            }
+        ]
+    },
+    {
+        "title": "Accidents in the workplace caused by fatigue",
+        "description": "Accidents in the workplace caused by fatigue. OIA: 52232",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "accidents",
+            "workplace",
+            "fatigue",
+            "tiredness"
+        ],
+        "issued": "04-05-2020",
+        "corrected date": "04-05-2020",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2010/04-05-2020",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/4b8f2b69-52fb-4ffa-a02c-239d7dc6e852/resource/4658b7c5-a73c-4630-9156-b5da7fc15e09/download/52232-response.xlsx",
+                "format": "XLSX",
+                "title": "Workplace accidents data"
+            }
+        ]
+    },
+    {
+        "title": "All Terrain Vehicle (ATV) Injuries",
+        "description": "ACC claims relating to all terrain vehicle (ATV) injuries",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "all terrain injuries",
+            "atv",
+            "claims"
+        ],
+        "issued": "13-05-2020",
+        "corrected date": "13-05-2020",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2010/31-12-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/10be7aae-5328-4072-889b-9c52a2ef68c4/resource/c058c5b1-9615-4ed7-80e5-0d6089b2ef19/download/52192-atv-injuries.xlsm",
+                "format": "XLSM",
+                "title": "ATV injury claims"
+            }
+        ]
+    },
+    {
+        "title": "Average expense per claim by injury type in last 12 months",
+        "description": "Average Lifetime Cost Of Active Claims for the Last 12 Months (1 January 2019 - 31 December 2019). ACC response to a request at: https://www.data.govt.nz/datasetrequest/show/448",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "average lifetime cost of claims",
+            "injury"
+        ],
+        "issued": "43874",
+        "corrected date": "13-02-2020",
+        "publisher": {
+            "name": "ACC"
+        },
+        "contactPoint": {
+            "fn": "Government Engagement & Support",
+            "hasEmail": "GovernmentServices@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2019/31-12-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/556c3e7c-da10-4451-8cdb-ff46344bf197/resource/3c0a83c5-b553-4ba8-8149-dd91f5b8d5b8/download/gov-003217-response.pdf",
+                "format": "PDF",
+                "size": "387KB",
+                "title": "GOV-003217 Response"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/556c3e7c-da10-4451-8cdb-ff46344bf197/resource/5b807992-56e6-4ba7-b2fd-9ac3f4b4e1b1/download/gov-003217-appendix-one.xlsx",
+                "format": "XLSX",
+                "size": "19KB",
+                "title": "Cost Of Active Claims data"
+            }
+        ]
+    },
+    {
+        "title": "Count of sensitive claims",
+        "description": "Number of sensitive claims lodged between 2014-2018. OIA: 49376",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "sensitive claims",
+            "issc"
+        ],
+        "issued": "18-04-2019",
+        "corrected date": "18-04-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-07-2013/30-06-2018",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/16102e49-43be-4354-97e0-73787726b340/resource/42619488-b035-4348-9957-2e931691bd68/download/49376-external-doc.pdf",
+                "format": "PDF",
+                "title": "Number of sensitive claims"
+            }
+        ]
+    },
+    {
+        "title": "Hot water bottle injuries",
+        "description": "ACC claims relating to hot water injuries",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hot water",
+            "hotties",
+            "hotty",
+            "injury",
+            "claims"
+        ],
+        "issued": "02-07-2019",
+        "corrected date": "02-07-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2014/23-06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/0f6d3b12-be60-4126-9bcc-22dc2ad380f6/resource/9f797cd4-1145-41d1-91f9-55ef6a6cbb68/download/gov-000318-response.pdf",
+                "format": "PDF",
+                "size": "225KB",
+                "title": "Hot water injury claims"
+            }
+        ]
+    },
+    {
+        "title": "Motor Vehicle Accident claims",
+        "description": "ACC claims relating to motor vehicle or road accidents.\nThe information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\n* The claim has is funded under the ACC Motor vehicle fund.\n* The claim was lodged or active in the period between 1 July 2011 and 30 June 2018.\n* The claim has a cover decision equal to \"Accept\".\nCaveats / Notes:\n- Costs provided are exclusive of GST.\n- Costs are based on payment date. Payment date may be different to the date of service.\n- Accredited employer claims are excluded from the information.\n- A financial year is 1 July to 30 June.\n- Any instances of client gender, age, ethnicity, or accident location that are missing are not included in the information.\n- ACC is reliant on the information a person provides on their ACC45 injury claim form which is completed when they seek medical treatment for their injury.\n- Data were extracted on 30 November 2018 and may differ if re-run at a later date.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "acc",
+            "cars",
+            "claims",
+            "motor vehicle accident"
+        ],
+        "issued": "30-11-2018",
+        "corrected date": "30-11-2018",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Injury",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/e9767749-01e5-4b9f-88de-10b73ae73b19/resource/f53f15d8-fb9c-474b-9fc7-d05907070262/download/road-data-publication.xlsx",
+                "format": "XLSX",
+                "title": "Motor Vehicle Accidents Data"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/e9767749-01e5-4b9f-88de-10b73ae73b19/resource/6db4cb5e-4653-48c5-a90d-841fde229c6e/download/road-analyst_new.xlsx",
+                "format": "CSV",
+                "title": "New Motor Vehicle Accidents"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/e9767749-01e5-4b9f-88de-10b73ae73b19/resource/7c0c24b1-0cb6-4ef2-8602-886d7ef70b94/download/road-analyst_active.xlsx",
+                "format": "CSV",
+                "title": "Active Motor Vehicle Accidents"
+            }
+        ]
+    },
+    {
+        "title": "Netball injuries on Wellington",
+        "description": "Summary of Netball claims in Wellington, 2017-2019",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "netball",
+            "injuries",
+            "wellington"
+        ],
+        "issued": "05-10-2019",
+        "corrected date": "05-10-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "landingPage": "https://catalogue.data.govt.nz/dataset/f00246b1-3964-4a22-9464-3fb54651aed6/resource/bfb5968b-d579-4306-a0f1-34317ebe942b/download/51388-netball-injuries-in-wellington.xlsx",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "2017/2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/f00246b1-3964-4a22-9464-3fb54651aed6/resource/bfb5968b-d579-4306-a0f1-34317ebe942b/download/51388-netball-injuries-in-wellington.xlsx",
+                "format": "XLSX",
+                "title": "Netball injuries in Wellington 2017-2019"
+            }
+        ]
+    },
+    {
+        "title": "Number of claims by pedestrians in Kapiti",
+        "description": "Number of claims by pedestrians in Kapiti by age group. OIA: 52226",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "pedestrian",
+            "claims",
+            "kapiti"
+        ],
+        "issued": "04-05-2020",
+        "corrected date": "04-05-2020",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2015/04-05-2020",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/282c8647-49f9-4d57-bf51-01b5d0d56267/resource/beb83e12-1d6a-479c-9556-e86da68a86ae/download/52226-response.xlsm",
+                "format": "XLSM",
+                "title": "Pedestrian injuries data in Kapiti"
+            }
+        ]
+    },
+    {
+        "title": "Number of claims for occupational noise induced hearing loss",
+        "description": "Number of claims for occupational noise induced hearing loss, including totals per annum, and totals per annum by industry. OIA: 51192",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "hearing loss",
+            "occupational noise",
+            "injury",
+            "claims"
+        ],
+        "issued": "11-10-2019",
+        "corrected date": "11-10-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-07-2010/05-10-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/579d6a8d-8dc1-4d4a-a79c-66a53309005e/resource/1b90b05f-3585-4c6d-81c7-0b8838fadf68/download/51192-nihl-claims-last-10-years.xlsx",
+                "format": "XLSX",
+                "title": "Hearing loss data",
+                "description": "Claims data from occupational noise induced hearing loss"
+            }
+        ]
+    },
+    {
+        "title": "Number of claims relating to falls in Whanganui",
+        "description": "Number of claims relating to falls in Whanganui.  The injury cause is equal to ‘Loss Balance/Personal Control’, ‘Loss of Consciousness/Sleep’,  ‘Misjudgement of Support’, ‘Slipping, Skidding on Foot’, ‘Something Giving way Underfoot’ or ‘Tripping or Stumbling’. OIA : 48495",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "falls",
+            "claims",
+            "whanganui"
+        ],
+        "issued": "16-01-2019",
+        "corrected date": "16-01-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-07-2013/30-06-2018",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/0cd32927-4dc4-4cda-8888-f26f84cd0656/resource/a861ffb8-b055-4288-9dee-3c723784eb29/download/48495-falls-in-whanganui-response.pdf",
+                "format": "PDF",
+                "title": "Falls data"
+            }
+        ]
+    },
+    {
+        "title": "Number of Concussion or traumatic brain injury (TBI) claims lodged",
+        "description": "Number claims for the previous 5 years of concussion and mild traumatic brain injury. OIA: 50395",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "concussions",
+            "traumatic brain injury"
+        ],
+        "issued": "2019-07-27",
+        "corrected date": "27-07-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/d68ff0ae-3164-46e5-9a27-c7590536acd0/resource/6cf2b669-1ca5-429c-9d06-3876d1391c8f/download/50395-concussion-and-tbi.xlsx",
+                "format": "XLSX",
+                "title": "Concussion injury data"
+            }
+        ]
+    },
+    {
+        "title": "Number of elective surgery requests received for hip labral tears",
+        "description": "The data has been extracted for claims where an elective surgery request, with the surgery code HIT50-52, HIT60-62 or HIT70-7, has a service date between 1 July 2013 and 30 June 2019. The data provided was extracted on 18 October 2019 and may differ if re-run at a later date.  In recent years, the hip surgery codes have not been able to be loaded against individual purchase orders. In instances where this has been the case, we have extracted data for elective surgery requests\nwhere the surgery site was hip and the comments field included the key terms arthroscopy and hip/labral or the surgery codes, as mentioned above.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "elective surgery",
+            "hip",
+            "arthroscropy",
+            "labral"
+        ],
+        "issued": "18-10-2019",
+        "corrected date": "18-10-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-07-2013/30-06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/c0b75640-57e0-4dc8-a085-5e9882a9f909/resource/6858c93d-5218-4f45-8d91-022f89654ee2/download/gov-002082-response.pdf",
+                "format": "PDF",
+                "title": "Elective surgery data"
+            }
+        ]
+    },
+    {
+        "title": "Number of injuries and fatalities from water kayaking",
+        "description": "Number of injuries and fatalities that occurred over the last 5 years during white water rafting, white\nwater kayaking and sea kayaking activity. OIA: 51126",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "white water rafting",
+            "white water rafting",
+            "sea kayaking",
+            "injury",
+            "fatalities"
+        ],
+        "issued": "16-10-2019",
+        "corrected date": "16-10-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2015/21-09-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/111f311d-d6fd-4d7a-954c-4268413215d4/resource/bb0b354c-fbab-42d7-9867-2634baa880e4/download/51126-rafting-kayaking-injuries.pdf",
+                "format": "PDF",
+                "title": "Water kayaking injury data"
+            }
+        ]
+    },
+    {
+        "title": "Number of injuries and fatalities while rock climbing",
+        "description": "Number of injuries and fatalities from rock climbing and climbing wall. OIA: 51125",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "rock climbing",
+            "climbing wall",
+            "fatalities"
+        ],
+        "issued": "16-10-2019",
+        "corrected date": "16-10-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2015/2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/d9a62cb3-faeb-40bf-89fb-da1ce714be92/resource/849590f7-2617-40d5-ad4d-e412b47a61b1/download/51125-rock-climbing-injuries.pdf",
+                "format": "PDF",
+                "title": "Rock climbing Injury data"
+            }
+        ]
+    },
+    {
+        "title": "Sports injuries",
+        "description": "Sports related injuries by type of sports, locations, type of injury, age , gender, ethnicity, and cost of treatment.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "sports",
+            "injury",
+            "age",
+            "gender",
+            "treatment cost",
+            "ethnicity"
+        ],
+        "issued": "12-03-2020",
+        "corrected date": "12-03-2020",
+        "modified": "12-12-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-07-2008/30-06-2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/3eb52d25-2aa1-4861-aff4-8b4bede6da64/resource/28b114b3-ad87-4ead-bc77-6b6449b654d4/download/51939-response.xlsm",
+                "format": "xlsm",
+                "size": "68KB",
+                "title": "Sports injury data",
+                "description": "Claims data between 1/07/2008 - 30/06/2019. OIA: 519939"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/ef4c6298-3f56-4e11-ba4b-96bafbb23239/resource/070d3446-e29b-4e3c-874c-3df8968fd8ed/download/51704-sport-concussions.xlsm",
+                "format": "XLSM",
+                "title": "Sports related concussion data",
+                "description": "Sport related concussion by age group and sports  (01/01/2015-31/12/2018)"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/3317c3ef-8999-4edb-a9f7-be037df8520a/resource/953db280-f73e-4e90-b2a6-e483ee2c8471/download/52244.xlsm",
+                "format": "XLSM",
+                "title": "Sports related concussions 2010-2020",
+                "description": "A summary of concussion/mild traumatic brain injuries between 2010-2020 broken down into how the injuries occurred and a breakdown of which ethnic groups suffered the most of these injuries while playing sport. OIA: 52244"
+            }
+        ]
+    },
+    {
+        "title": "Vaccine Injury compensation",
+        "description": "The injuries in the data provided mayrelate to the administration of the vaccine or a specific component of the vaccine. ACC response to a request at: https://www.data.govt.nz/datasetrequest/show/419",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "vaccine",
+            "injury",
+            "acc",
+            "treatment cost"
+        ],
+        "issued": "30-03-2020",
+        "corrected date": "30-03-2020",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "GovernmentServices@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Government Engagement & Support",
+            "hasEmail": "GovernmentServices@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "2005/2019",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/a7ecd16b-df20-42a0-9d05-8ba947a10c68/resource/c4938f81-6ced-4098-8c03-48bce9c90705/download/gov-001373-response.pdf",
+                "format": ".pdf",
+                "size": "439KB",
+                "title": "Vaccine injury data 2005-2019",
+                "description": "Time series data from July 2005 to June 2019, and July 2019 to Sept 2019"
+            },
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/a7ecd16b-df20-42a0-9d05-8ba947a10c68/resource/338cb39f-8b8b-4ab3-bf18-0c239d71f5e0/download/gov-004033-response.pdf",
+                "format": "PDF",
+                "size": "475795",
+                "title": "Vaccine injury data 2005-2020",
+                "description": "Time series data from July 2005 to June 2019, and July 2019 to 8 March 2020"
+            }
+        ]
+    },
+    {
+        "title": "Workplace injuries",
+        "description": "Workplace injuries rates, general population, Pasifica peoples and Maori between 1 July 2015 and 30 June 2018.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "acc",
+            "claims",
+            "injury",
+            "workplace"
+        ],
+        "issued": "02-03-2019",
+        "corrected date": "02-03-2019",
+        "publisher": {
+            "name": "ACC",
+            "mbox": "analytics@acc.co.nz"
+        },
+        "contactPoint": {
+            "fn": "Analytics & Reporting, ACC",
+            "hasEmail": "analytics@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-07-2015/30-06-2018",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/f722ad6f-f170-482b-93d5-5076c03c4445/resource/8fc0367c-2311-47c2-8a67-a62cc24e71f0/download/0053769-response-workplace-injury-rates.xlsx",
+                "format": "XLSX",
+                "title": "Workplace injuries data"
             }
         ]
     }
