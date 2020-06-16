@@ -1,12 +1,12 @@
 {
       "@context": "https://www.data.govt.nz/catalog.jsonld",
-      "@id": "https://www.acc.co.nz/data.json",
+      "@id": "https://acc.co.nz/data.json",
       "@type": "dcat:Catalog",
       "conformsTo": "https://www.data.govt.nz/toolkit/schema",
       "dataset":[
     {
         "title": "ACC Falls Data 2007-2019",
-        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.). OIA: 51599.  The information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\nThe claim has an accident cause equal to one of the following:\n- Loss Balance/Personal Control\n- Loss of Consciousness/Sleep\n- Misjudgement of Support\n- Slipping, Skidding on Food\n- Something Giving way Underfoot\n- Tripping or Stumbling\n\nThe claim was lodged or active in the period between 1 January 2007 and 30 November 2019.  Data were extracted on 1 December 2019.",
+        "description": "ACC claims relating to accidents caused by an action categorized as falling (i.e. slipping, tripping, misjudging a step, etc.). OIA: 51599.  The information provided is based on the following criteria/considerations.\nThe data has been extracted based on the following criteria:\nThe claim has an accident cause equal to one of the following:\n- Loss Balance/Personal Control\n- Loss of Consciousness/Sleep\n- Misjudgement of Support\n- Slipping, Skidding on Food\n- Something Giving way Underfoot\n- Tripping or Stumbling\nThe claim was lodged or active in the period between 1 January 2007 and 30 November 2019.  Data were extracted on 1 December 2019.",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
             "acc",
@@ -18,12 +18,11 @@
         "issued": "2019-12-1",
         "corrected date": "1/12/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -50,13 +49,11 @@
         "issued": "2018-09-17",
         "modified": "2018-10-3",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
-        "ACC Contact": "Damian Lawler",
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
         "accrualPeriodicity": "R/P1Y",
@@ -89,12 +86,11 @@
         "issued": "2020-01-27",
         "corrected date": "27/01/2020",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "theme": "Injury",
         "distribution": [
@@ -117,12 +113,11 @@
         "issued": "2019-09-26",
         "corrected date": "26/09/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Treatment Safety",
-            "hasEmail": "treatmentinjury@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "R/P1Y",
         "theme": "Injury",
@@ -162,10 +157,8 @@
         "corrected date": "17/03/2017",
         "modified": "2019-07-31",
         "publisher": {
-            "name": "ACC",
-            "mbox": "website.management@acc.co.nz"
+            "name": "ACC"
         },
-        "ACC Contact": "Mark Williamson",
         "contactPoint": {
             "fn": "Government Engagement & Support",
             "hasEmail": "website.management@acc.co.nz"
@@ -223,12 +216,11 @@
         "issued": "2020-05-4",
         "corrected date": "4/05/2020",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -253,12 +245,11 @@
         "issued": "2020-05-13",
         "corrected date": "13/05/2020",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -318,12 +309,11 @@
         "issued": "2019-04-18",
         "corrected date": "18/04/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -333,6 +323,35 @@
                 "downloadURL": "https://catalogue.data.govt.nz/dataset/16102e49-43be-4354-97e0-73787726b340/resource/42619488-b035-4348-9957-2e931691bd68/download/49376-external-doc.pdf",
                 "format": "PDF",
                 "title": "Number of sensitive claims"
+            }
+        ]
+    },
+    {
+        "title": "Dance-related unjuries and number of claims",
+        "description": "Number of new claims for dance related injuries, broken down by injury location and registration calendar year, number of new claims for dance related injuries, broken down by top 5 injury diagnoses and registration calendar year, and number of active claims for dance related injuries and active claim costs, broken down by payment calendar year. OIA request ref: 52287.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "acc",
+            "claims",
+            "dance"
+        ],
+        "issued": "2020-05-4",
+        "publisher": {
+            "name": "ACC"
+        },
+        "contactPoint": {
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
+        },
+        "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
+        "accrualPeriodicity": "irregular",
+        "theme": "Injury",
+        "temporal": "01-01-2015/04-05-2020",
+        "distribution": [
+            {
+                "downloadURL": "https://catalogue.data.govt.nz/dataset/869c64ef-5e8e-43d5-9802-7c2cc1ab5d75/resource/a5fd8169-c3ff-496d-add5-611be37d1e2a/download/52287-datagov-response.xlsx",
+                "format": "XLSX",
+                "title": "Dance related injury and claim data"
             }
         ]
     },
@@ -350,12 +369,11 @@
         "issued": "2019-07-2",
         "corrected date": "2/07/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -382,12 +400,11 @@
         "issued": "2018-11-30",
         "corrected date": "30/11/2018",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "R/P1Y",
         "theme": "Injury",
@@ -421,12 +438,11 @@
         "issued": "2019-10-5",
         "corrected date": "5/10/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "landingPage": "https://catalogue.data.govt.nz/dataset/f00246b1-3964-4a22-9464-3fb54651aed6/resource/bfb5968b-d579-4306-a0f1-34317ebe942b/download/51388-netball-injuries-in-wellington.xlsx",
         "accrualPeriodicity": "irregular",
@@ -452,12 +468,11 @@
         "issued": "2020-05-4",
         "corrected date": "4/05/2020",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -483,12 +498,11 @@
         "issued": "2019-10-11",
         "corrected date": "11/10/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -514,12 +528,11 @@
         "issued": "2019-01-16",
         "corrected date": "16/01/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -543,12 +556,11 @@
         "issued": "2019-07-27",
         "corrected date": "27/07/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -562,7 +574,7 @@
     },
     {
         "title": "Number of elective surgery requests received for hip labral tears",
-        "description": "The data has been extracted for claims where an elective surgery request, with the surgery code HIT50-52, HIT60-62 or HIT70-7, has a service date between 1 July 2013 and 30 June 2019. The data provided was extracted on 18 October 2019 and may differ if re-run at a later date.  In recent years, the hip surgery codes have not been able to be loaded against individual purchase orders. In instances where this has been the case, we have extracted data for elective surgery requests\nwhere the surgery site was hip and the comments field included the key terms arthroscopy and hip/labral or the surgery codes, as mentioned above.",
+        "description": "The data has been extracted for claims where an elective surgery request, with the surgery code HIT50-52, HIT60-62 or HIT70-7, has a service date between 1 July 2013 and 30 June 2019. The data provided was extracted on 18 October 2019 and may differ if re-run at a later date.  In recent years, the hip surgery codes have not been able to be loaded against individual purchase orders. In instances where this has been the case, we have extracted data for elective surgery requests where the surgery site was hip and the comments field included the key terms arthroscopy and hip/labral or the surgery codes, as mentioned above.",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
             "elective surgery",
@@ -573,12 +585,11 @@
         "issued": "2019-10-18",
         "corrected date": "18/10/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -593,7 +604,7 @@
     },
     {
         "title": "Number of injuries and fatalities from water kayaking",
-        "description": "Number of injuries and fatalities that occurred over the last 5 years during white water rafting, white\nwater kayaking and sea kayaking activity. OIA: 51126",
+        "description": "Number of injuries and fatalities that occurred over the last 5 years during white water rafting, white water kayaking and sea kayaking activity. OIA: 51126",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
             "white water rafting",
@@ -605,12 +616,11 @@
         "issued": "2019-10-16",
         "corrected date": "16/10/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -635,12 +645,11 @@
         "issued": "2019-10-16",
         "corrected date": "16/10/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "accrualPeriodicity": "irregular",
         "theme": "Injury",
@@ -669,12 +678,11 @@
         "corrected date": "12/03/2020",
         "modified": "2019-12-12",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
         "accrualPeriodicity": "irregular",
@@ -715,8 +723,7 @@
         "issued": "2020-03-30",
         "corrected date": "30/03/2020",
         "publisher": {
-            "name": "ACC",
-            "mbox": "GovernmentServices@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
             "fn": "Government Engagement & Support",
@@ -756,12 +763,11 @@
         "issued": "2019-03-2",
         "corrected date": "2/03/2019",
         "publisher": {
-            "name": "ACC",
-            "mbox": "analytics@acc.co.nz"
+            "name": "ACC"
         },
         "contactPoint": {
-            "fn": "Analytics & Reporting, ACC",
-            "hasEmail": "analytics@acc.co.nz"
+            "fn": "Government Engagement & Support",
+            "hasEmail": "governmentservices@acc.co.nz"
         },
         "landingPage": "https://www.acc.co.nz/about-us/statistics/?smooth-scroll=content-after-navs",
         "accrualPeriodicity": "irregular",
